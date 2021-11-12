@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+|![Github Stats](https://arcayi.vercel.app/api?username=arcayi&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+|![Top Langs](https://arcayi.vercel.app/api/top-langs/?username=arcayi&hide=TeX&layout=compact)
+|
+| ------------- | ------------- |
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arcayi.arcayi)
