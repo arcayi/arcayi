@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 |[![GitHub stats](https://arcayi.vercel.app/api?username=arcayi&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/arcayi/github-readme-stats)|[![Top Langs](https://arcayi.vercel.app/api/top-langs/?username=arcayi&layout=compact)](https://github.com/arcayi/github-readme-stats)|
+|  ----  | ----  |
 
 ![Github Stats](https://arcayi.vercel.app/api?username=arcayi&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://arcayi.vercel.app/api/top-langs/?username=arcayi&hide=TeX&layout=compact)|
