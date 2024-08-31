@@ -10,7 +10,7 @@ Hobbist designed quadcopter, 3d printer, home automation/sensors.</h3>
 
 - 🔭 I’m currently working on [SportAi](https://github.com/2SportsAi/sportai_py)
 
-- 💬 Ask me about **Python, C/C++, AI**
+- 💬 Ask me about **Python, C/C++, OpenCV, AI, Electronics, MCU**
 
 - 📫 How to reach me **arcayi@qq.com**
 
@@ -35,6 +35,7 @@ Hobbist designed quadcopter, 3d printer, home automation/sensors.</h3>
   - vision application
     - pose estimation
     - object detection and tracking
+  - LLM and generative AI
 - Data analysis/visualization
 
 </p>
