@@ -45,9 +45,9 @@ Hobbist designed quadcopter, 3d printer, home automation/sensors.</h3>
 
 
 <p>
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td width=45%>
       <img src="https://arcayi.vercel.app/api/top-langs/?username=arcayi&layout=compact" alt="arcayi" />
     </td>
     <td>
