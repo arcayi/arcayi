@@ -8,13 +8,13 @@ Hobbist designed quadcopter, 3d printer, home automation/sensors.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arcayi" alt="arcayi" /></a> </p> -->
 
-- 🔭 I’m currently working on [SportAi](https://github.com/2SportsAi/sportai_py)
+- 🔭 I’m currently working on [SportAi](https://github.com/arcayi/sportai_demo)
 
 - 💬 Ask me about **Python, C/C++, OpenCV, AI, Electronics, MCU**
 
 - 📫 How to reach me **arcayi@qq.com**
 
-- 📄 Know about my [experiences](https://github.com/arcayi/arcayi/blob/main/Experiences.md)
+- 📄 Know about my [experiences](Experiences.md)
 
 ## :hammer_and_wrench: Skills (Not listed all)
 - Software

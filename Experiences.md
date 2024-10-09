@@ -14,11 +14,12 @@
 
 ### My own projects
 
-- [SportAi](https://github.com/2SportsAi/sportai_py): AI assistant for human sport trainning and testing.
+- [SportAi](https://github.com/arcayi/sportai_demo): AI assistant for human sport trainning and testing.
 
 - [HASS_Linux_Deploy](https://github.com/arcayi/HASS_Linux_Deploy): Run Home Assistant in Linux Deploy android
 
 - [piezo_probe_kossel](https://github.com/arcayi/piezo_probe_kossel): Auto level probe sensor for Kossel 3D printer
+ 
   [![Auto level probe in Kossel 3D printer](https://img.youtube.com/vi/lyBaAa0_jc8/0.jpg)](https://www.youtube.com/watch?v=lyBaAa0_jc8)
 
 - [BluetoothMetry](https://github.com/arcayi/BluetoothMetry): An app detecting distance based on RSSI
