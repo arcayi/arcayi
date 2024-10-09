@@ -50,5 +50,5 @@ Hobbist designed quadcopter, 3d printer, home automation/sensors.</h3>
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/weihuayi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/weihuayi" /></a></p>
+<p><a href="https://buymeacoffee.com/weihuayi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/weihuayi" /></a></p>
 <br><br>
